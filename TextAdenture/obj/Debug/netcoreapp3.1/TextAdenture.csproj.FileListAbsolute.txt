@@ -1,0 +1,13 @@
+C:\Users\Dthrasher90\Desktop\repos\TextAdenture\TextAdenture\bin\Debug\netcoreapp3.1\TextAdenture.exe
+C:\Users\Dthrasher90\Desktop\repos\TextAdenture\TextAdenture\bin\Debug\netcoreapp3.1\TextAdenture.deps.json
+C:\Users\Dthrasher90\Desktop\repos\TextAdenture\TextAdenture\bin\Debug\netcoreapp3.1\TextAdenture.runtimeconfig.json
+C:\Users\Dthrasher90\Desktop\repos\TextAdenture\TextAdenture\bin\Debug\netcoreapp3.1\TextAdenture.runtimeconfig.dev.json
+C:\Users\Dthrasher90\Desktop\repos\TextAdenture\TextAdenture\bin\Debug\netcoreapp3.1\TextAdenture.dll
+C:\Users\Dthrasher90\Desktop\repos\TextAdenture\TextAdenture\bin\Debug\netcoreapp3.1\TextAdenture.pdb
+C:\Users\Dthrasher90\Desktop\repos\TextAdenture\TextAdenture\obj\Debug\netcoreapp3.1\TextAdenture.csprojAssemblyReference.cache
+C:\Users\Dthrasher90\Desktop\repos\TextAdenture\TextAdenture\obj\Debug\netcoreapp3.1\TextAdenture.AssemblyInfoInputs.cache
+C:\Users\Dthrasher90\Desktop\repos\TextAdenture\TextAdenture\obj\Debug\netcoreapp3.1\TextAdenture.AssemblyInfo.cs
+C:\Users\Dthrasher90\Desktop\repos\TextAdenture\TextAdenture\obj\Debug\netcoreapp3.1\TextAdenture.csproj.CoreCompileInputs.cache
+C:\Users\Dthrasher90\Desktop\repos\TextAdenture\TextAdenture\obj\Debug\netcoreapp3.1\TextAdenture.dll
+C:\Users\Dthrasher90\Desktop\repos\TextAdenture\TextAdenture\obj\Debug\netcoreapp3.1\TextAdenture.pdb
+C:\Users\Dthrasher90\Desktop\repos\TextAdenture\TextAdenture\obj\Debug\netcoreapp3.1\TextAdenture.genruntimeconfig.cache
